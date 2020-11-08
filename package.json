@@ -7,9 +7,12 @@
     "@rails/ujs": "^6.0.0",
     "@rails/webpacker": "4.3.0",
     "bootstrap": "^4.5.3",
+    "global": "^4.4.0",
     "jquery": "^3.5.1",
+    "ngrok": "^3.3.0",
     "popper.js": "^1.16.1",
-    "turbolinks": "^5.2.0"
+    "turbolinks": "^5.2.0",
+    "webpacker-pwa": "^0.1.2"
   },
   "version": "0.1.0",
   "devDependencies": {
